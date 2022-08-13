@@ -1,0 +1,3 @@
+Este archivo es una prueba escrita desde la linea de comandos de git
+usando el vim y para guardar esto hay que presionar ESC y luego :wq
+para poder guardar el archivo
